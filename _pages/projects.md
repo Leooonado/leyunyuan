@@ -7,11 +7,12 @@ author_profile: false
 
 Here are selected projects that reflect my work in marketing analytics, data analysis, and storytelling.
 
-{% for p in site.projects %}
-### [{{ p.title }}]({{ p.url | relative_url }})
-{{ p.excerpt }}
+{% for project in site.projects %}
+### [{{ project.title }}]({{ project.url | relative_url }})
 
-**Tools:** {{ p.tools | join: ", " }}
+{{ project.excerpt }}
+
+**Tools:** {{ project.tools | join: ", " }}
 
 ---
 {% endfor %}
