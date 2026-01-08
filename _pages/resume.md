@@ -7,7 +7,7 @@ author_profile: false
 
 You can download my resume here:
 
-- **PDF:** [Download Resume](/assets/Leyun_Yuan_Resume.pdf)
+- **PDF:** [Download Resume]({{ "/assets/resume/Leyun_Yuan_Resume.pdf" | relative_url }})
 
 ## Snapshot
 - **Skills:** SQL, Python, R, data visualization, marketing metrics
