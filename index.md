@@ -14,9 +14,9 @@ header:
 intro:
   - excerpt: "I love turning messy data into stories people can act on—especially in marketing and customer insights."
 feature_row:
-  - title: "Marketing Campaign Performance Analysis"
+  - title: "T-Mobile: Customer Retention & Sentiment Analysis"
     excerpt: "Analyzed multi-channel performance to identify conversion drivers and optimization opportunities."
-    url: "/projects/"
+    url: "/projects/customer-retention-analysis"
     btn_label: "See project"
     btn_class: "btn--primary"
   - title: "Customer Segmentation (SQL + Python)"
