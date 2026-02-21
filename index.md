@@ -5,7 +5,7 @@ title: "Leyun Yuan"
 excerpt: "Marketing Analytics • Data Analysis • SQL / Python / R"
 header:
   overlay_color: "#0047AB"
-  overlay_filter: "0.65"
+  overlay_filter: "0.3"
   actions:
     - label: "View Projects"
       url: "/projects/"
