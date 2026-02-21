@@ -4,8 +4,8 @@ permalink: /
 title: "Leyun Yuan"
 excerpt: "Marketing Analytics • Data Analysis • SQL / Python / R"
 header:
-  overlay_color: "#3987a8"
-  overlay_filter: "0.25"
+  overlay_color: "#0047AB"
+  overlay_filter: "0.65"
   actions:
     - label: "View Projects"
       url: "/projects/"
