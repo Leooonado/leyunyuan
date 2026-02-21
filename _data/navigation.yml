@@ -7,5 +7,7 @@ main:
     url: /resume/
   - title: "About"
     url: /about/
+  - title: "Hobbies"
+    url: /hobbies/
   - title: "Contact"
     url: /contact/
