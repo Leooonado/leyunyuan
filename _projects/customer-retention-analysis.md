@@ -40,7 +40,7 @@ Designed and animated the executive presentation deck to align with the telecom 
 - Received positive feedback for clarity, polish, and executive-readiness of the deck
 
 ## Presentation
-<iframe src="https://docs.google.com/presentation/d/1_0pRmiRIqVTxdbJoNh3992FpSIGTvDM5/edit?usp=drive_link&ouid=116200303605252074146&rtpof=true&sd=true"
+<iframe src="https://docs.google.com/presentation/d/1_0pRmiRIqVTxdbJoNh3992FpSIGTvDM5/edit?slide=id.p1#slide=id.p1"
 frameborder="0"
 width="100%"
 height="500"
