@@ -39,14 +39,6 @@ Designed and animated the executive presentation deck to align with the telecom 
 - Used controlled animations to guide attention toward key coefficients and impact metrics  
 - Received positive feedback for clarity, polish, and executive-readiness of the deck
 
-## Presentation
-<iframe src="https://docs.google.com/presentation/d/1_0pRmiRIqVTxdbJoNh3992FpSIGTvDM5/edit?slide=id.p1#slide=id.p1"
-frameborder="0"
-width="100%"
-height="500"
-allowfullscreen="true"></iframe>
-
-
 ## Skills Demonstrated:
 - Regression Modeling
 - Marketing Strategy Translation
